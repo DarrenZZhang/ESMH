@@ -1,6 +1,6 @@
 # ESMH
 
-Code For Efficient Semi-supervised Multi-modal Hashing with Adaptive Regression
+Code for Efficient Semi-supervised Multi-modal Hashing with Adaptive Regression
 
 Prerequisities
 
