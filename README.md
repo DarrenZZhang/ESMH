@@ -2,6 +2,8 @@
 
 **Code for Efficient Semi-supervised Multi-modal Hashing with Adaptive Regression** 
 
+C. Zheng, L. Zhu, Z. Zhang, J. Li, X. Yu, Efficient Semi-supervised Multi-modal Hashing with Importance Differentiation Regression, IEEE Transactions on Image Processing (TIP), 31: 5881-5892, 2022.
+
 Prerequisities
 
 1. MATLAB
